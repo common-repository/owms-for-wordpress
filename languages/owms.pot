@@ -1,0 +1,340 @@
+# OWMS Plugin for WordPress
+# Copyright (2011) Mark. P Lindhout
+# This file is distributed under the same license as the OWMS Plugin for WordPress.
+# Mark P. Lindhout <info@langdradig.nl>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.2\n"
+"Report-Msgid-Bugs-To: info@langdradig.nl\n"
+"POT-Creation-Date: 2011-07-03 19:54+0200\n"
+"PO-Revision-Date: 2011-07-03 19:55+0200\n"
+"Last-Translator: Mark P. Lindhout <info@langdradig.nl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: owms.php:75
+msgid "Generated through OWMS for Wordpress (Mark Lindhout, 2011)"
+msgstr ""
+
+#: owms.php:83
+msgid "OWMS Terms"
+msgstr ""
+
+#: owms.php:131
+msgid "The OWMS options were succesfully saved."
+msgstr ""
+
+#: owms.php:137
+msgid "OWMS for Wordpress"
+msgstr ""
+
+#: owms.php:141
+msgid "Content defaults"
+msgstr ""
+
+#: owms.php:143
+msgid ""
+"Here you can set the site-wide OWMS default values. If a post has no OWMS "
+"values of its own, these defaults will be used instead."
+msgstr ""
+
+#: owms.php:145 owms.php:243
+msgid "OWMS Core"
+msgstr ""
+
+#: owms.php:174 owms.php:262
+msgid "OWMS Extended"
+msgstr ""
+
+#: owms.php:205
+msgid "Save Changes"
+msgstr ""
+
+#: owms.php:219
+msgid "OWMS Options"
+msgstr ""
+
+#: owms.php:219
+msgid "OWMS"
+msgstr ""
+
+#: owms.php:288
+msgid "OWMS Meta-data"
+msgstr ""
+
+#: owms-terms.php:6
+msgid ""
+"Eenduidige verwijzing naar het informatieobject binnen een bepaalde context."
+msgstr ""
+
+#: owms-terms.php:7
+msgid "De naam die gegeven is aan het informatieobject."
+msgstr ""
+
+#: owms-terms.php:8
+msgid "Aard of soort van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:9
+msgid "Taal van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:10
+msgid ""
+"Overheidsorganisatie die de wettelijke verantwoordelijkheid draagt voor de "
+"inhoud (strekking) van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:11
+msgid ""
+"Organisatie die de eindverantwoordelijkheid draagt voor het creëren van het "
+"informatieobject."
+msgstr ""
+
+#: owms-terms.php:12
+msgid ""
+"Datum waarop het informatieobject gemaakt is of voor het laatst inhoudelijk "
+"is gewijzigd."
+msgstr ""
+
+#: owms-terms.php:13
+msgid "Bereik in tijd van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:14
+msgid ""
+"Geografische aanduiding van de plek op aarde waar het informatieobject "
+"betrekking op heeft."
+msgstr ""
+
+#: owms-terms.php:15
+msgid "Samenvatting van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:16
+msgid "Informatie over wie toegang heeft tot het informatieobject."
+msgstr ""
+
+#: owms-terms.php:17
+msgid ""
+"Elke vorm van de titel die als vervanging of alternatief voor de formele "
+"titel van het informatieobject wordt gebruikt."
+msgstr ""
+
+#: owms-terms.php:18
+msgid "Publiek voor wie het informatieobject bedoeld of nuttig is."
+msgstr ""
+
+#: owms-terms.php:19
+msgid "Datum waarop of periode waarin het informatieobject gepubliceerd wordt."
+msgstr ""
+
+#: owms-terms.php:20
+msgid ""
+"Verwijzing naar een bestaande standaard waar het informatieobject aan "
+"voldoet."
+msgstr ""
+
+#: owms-terms.php:21
+msgid ""
+"Organisatie of eventueel persoon verantwoordelijk voor het bijdragen aan de "
+"inhoud van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:22
+msgid ""
+"Plaats, periode of jurisdictie waarop het informatieobject van toepassing is."
+msgstr ""
+
+#: owms-terms.php:23
+msgid "Datum waarop het informatieobject gemaakt is."
+msgstr ""
+
+#: owms-terms.php:24
+msgid ""
+"Datum die verband houdt met een gebeurtenis in de levenscyclus van een "
+"informatieobject."
+msgstr ""
+
+#: owms-terms.php:25
+msgid "Datum waarop het informatieobject is geaccepteerd."
+msgstr ""
+
+#: owms-terms.php:26
+msgid "Datum waarop copyright is gelegd op het informatieobject."
+msgstr ""
+
+#: owms-terms.php:27
+msgid "Datum waarop het informatieobject is ingediend of aangemeld."
+msgstr ""
+
+#: owms-terms.php:28
+msgid "Omschrijving van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:29
+msgid ""
+"Omschrijving van het opleidingsniveau van de doelgroep van het "
+"informatieobject."
+msgstr ""
+
+#: owms-terms.php:30
+msgid "De grootte of tijdsduur van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:31
+msgid "Digitale vorm van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:32
+msgid ""
+"Verwijzing naar een informatieobject met dezelfde informatie als het eerder "
+"bestaande, beschreven informatieobject, maar in een ander formaat."
+msgstr ""
+
+#: owms-terms.php:33
+msgid ""
+"Verwijzing naar een informatieobject dat fysiek of logisch onderdeel is van "
+"het beschreven object."
+msgstr ""
+
+#: owms-terms.php:34
+msgid ""
+"Verwijzing naar een informatieobject dat een versie of aanpassing is van het "
+"beschreven object."
+msgstr ""
+
+#: owms-terms.php:35
+msgid ""
+"De educatieve methode van het informatieobject waarmee kennis, houding en "
+"vaardigheden worden aangeleerd."
+msgstr ""
+
+#: owms-terms.php:36
+msgid ""
+"Verwijzing naar een informatieobject met dezelfde intellectuele inhoud als "
+"het beschreven object, maar in een ander formaat."
+msgstr ""
+
+#: owms-terms.php:37
+msgid ""
+"Verwijzing naar een informatieobject waar het beschreven object fysiek of "
+"logisch onderdeel van is."
+msgstr ""
+
+#: owms-terms.php:38
+msgid ""
+"Verwijzing naar een informatieobject waarin wordt gerefereerd aan, of "
+"geciteerd uit het beschreven object."
+msgstr ""
+
+#: owms-terms.php:39
+msgid ""
+"Verwijzing naar een informatieobject dat het beschreven object vervangt."
+msgstr ""
+
+#: owms-terms.php:40
+msgid ""
+"Verwijzing naar een informatieobject dat voor de functie, levering of "
+"samenhang van de inhoud het beschreven informatieobject nodig heeft."
+msgstr ""
+
+#: owms-terms.php:41
+msgid ""
+"Verwijzing naar een informatieobject waar het beschreven object een versie "
+"of aanpassing van is."
+msgstr ""
+
+#: owms-terms.php:42
+msgid "Datum waarop het informatieobject formeel werd uitgegeven."
+msgstr ""
+
+#: owms-terms.php:43
+msgid ""
+"Een juridisch document dat formeel beschrijft hoe het informatieobject "
+"gebruikt mag worden."
+msgstr ""
+
+#: owms-terms.php:44
+msgid ""
+"Organisatie of persoon die toegang verleent tot het informatieobject en voor "
+"wie het object bedoeld is of nuttig is."
+msgstr ""
+
+#: owms-terms.php:45
+msgid ""
+"Registratie van wijziging in eigendom en beheer van het informatieobject "
+"vanaf de aanmaakdatum, die relevant zijn voor de authenticiteit, integriteit "
+"en interpretatie van het object."
+msgstr ""
+
+#: owms-terms.php:46
+msgid ""
+"De persoon of organisatie verantwoordelijk voor het publiceren van het "
+"informatieobject."
+msgstr ""
+
+#: owms-terms.php:47
+msgid ""
+"Verwijzing naar een informatieobject waaraan wordt gerefereerd in het "
+"beschreven object."
+msgstr ""
+
+#: owms-terms.php:48
+msgid ""
+"Informatieobjecten vinden die gerelateerd zijn aan het beschreven "
+"informatieobject."
+msgstr ""
+
+#: owms-terms.php:49
+msgid ""
+"Verwijzing naar een informatieobject dat wordt vervangen door het beschreven "
+"informatieobject."
+msgstr ""
+
+#: owms-terms.php:50
+msgid ""
+"Verwijzing naar een informatieobject dat nodig is ter ondersteuning van de "
+"functie, oplevering of coherentie van het beschreven informatieobject."
+msgstr ""
+
+#: owms-terms.php:51
+msgid "Informatie over de rechten die verband houden met het informatieobject."
+msgstr ""
+
+#: owms-terms.php:52
+msgid ""
+"Een persoon of organisatie die de rechten van het informatieobject bezit of "
+"beheert."
+msgstr ""
+
+#: owms-terms.php:53
+msgid ""
+"Een gerelateerd informatieobject waar het informatieobject van is afgeleid."
+msgstr ""
+
+#: owms-terms.php:54
+msgid "Onderwerp van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:55
+msgid "Een overzicht van de onderdelen van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:56
+msgid "Datum waarop of periode gedurende welke het informatieobject geldig is."
+msgstr ""
+
+#: owms-terms.php:57
+msgid "Afkorting van de titel van het informatieobject."
+msgstr ""
+
+#: owms-terms.php:58
+msgid ""
+"Het bestuursorgaan dat of de gemandateerde functionaris die een besluit tot "
+"vaststelling van het informatieobject heeft genomen."
+msgstr ""
